@@ -1,0 +1,45 @@
+body{
+  background-color: rgb(196, 193, 193);
+}
+
+.h1-heading
+{
+  font-size: 100px;
+  font-family: 'Times New Roman', Times, serif;
+color:rgb(2, 2, 73);
+text-align: center;
+box-shadow: 3px 3px 3px 3px;
+}
+i
+{
+font-weight: bold;
+font-size: 20px;
+text-shadow: 5px 5px 5px;
+color: rgb(0, 0, 0);
+}
+
+
+p{
+  font-family: cursive;
+  font-weight: bold;
+  font-size: 20px;
+  margin-top: 60px;
+  padding-top: 10px;
+}
+.item-1
+{
+background-color: greenyellow;
+width: 600px;
+height: 50px;
+border-radius: 20px;
+text-align: center;
+
+}
+.item-2
+{
+background-color: greenyellow;
+width: 600px;
+height:50px;
+border-radius: 20px;
+text-align: center;
+}
